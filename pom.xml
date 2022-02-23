@@ -69,7 +69,6 @@
                     <allureDownloadUrl>
                         ${allure.cmd.download.url}/${allure.version}/allure-commandline-${allure.version}.zip
                     </allureDownloadUrl>
-                    <reportDirectory>allure-results</reportDirectory>
                 </configuration>
             </plugin>
         </plugins>
